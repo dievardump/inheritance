@@ -3,7 +3,7 @@ Class Inheritance implementation
 
 Class Inheritance implementation for Node.js
 
-Really inspired by the MooTools' 1.x and John Resig's Class implementation
+Really inspired by the [MooTools'][1] 1.x and [John Resig's][2] Class implementation
 
 Alias are the same as the Mootools 1.x Class 
 - `Implements` : Mixin - Array of Class to implement
@@ -116,3 +116,7 @@ The package also provide the Class.Extras.Options from MooTools 1.x
  - DieVarDump
 
 ## MIT Licenced
+
+
+        [1]: http://mootools.net/docs/core/Class/Class
+        [2]: http://ejohn.org/blog/simple-javascript-inheritance/
