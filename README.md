@@ -118,5 +118,5 @@ The package also provide the Class.Extras.Options from MooTools 1.x
 ## MIT Licenced
 
 
-        [1]: http://mootools.net/docs/core/Class/Class
-        [2]: http://ejohn.org/blog/simple-javascript-inheritance/
+  [1]: http://mootools.net/docs/core/Class/Class
+  [2]: http://ejohn.org/blog/simple-javascript-inheritance/
