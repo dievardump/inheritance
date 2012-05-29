@@ -9,6 +9,7 @@ Alias are the same as the Mootools 1.x Class
 - `Implements` : Mixin - Array of Class to implement
 - `Extends` : Class to extend
 - `initialize` : constructor, method called when an object of this Class is instantiate
+- `parent` : used to call the same method in the Extended Class.
 
 The package also provide the Class.Extras.Options from MooTools 1.x
 
